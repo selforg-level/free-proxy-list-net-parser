@@ -5,7 +5,6 @@ description = "Get currently available free proxies from free-proxy-list.net"
 authors = ["selforg-level"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "free_proxy_list"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
