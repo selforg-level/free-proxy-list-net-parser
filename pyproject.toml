@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "free-proxy-list-net-parser"
+name = "free_proxy_list_net_parser"
 version = "1.0.0"
 description = "Get currently available free proxies from free-proxy-list.net"
 authors = ["selforg-level"]
